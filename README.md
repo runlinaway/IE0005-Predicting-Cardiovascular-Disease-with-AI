@@ -45,6 +45,6 @@ TensorFlow
 
 
 ## Credits
-Liu Runlin [Github](https://github.com/runlinaway)
-Cheryl Kunyit
+Liu Runlin [Github](https://github.com/runlinaway) <br>
+Cheryl Kunyit <br>
 Hong Wei
