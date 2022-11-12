@@ -24,24 +24,24 @@ Our notebook will be split into 3 parts.
 
 ## Models Used:
 
-**Level 0 Models:** 
-> Decision Tree (2.1)
-> Logistic Regression (2.2)
-> Naive Bayes (2.3)
-> MultiLayer Perceptron (2.4)
+**Level 0 Models:** <br>
+> Decision Tree (2.1)<br>
+> Logistic Regression (2.2)<br>
+> Naive Bayes (2.3)<br>
+> MultiLayer Perceptron (2.4)<br>
 
-**Level 1 Model**
->MultiLayer Perceptron
+**Level 1 Model**<br>
+>MultiLayer Perceptron<br>
 
-## Libraries Required:
-Numpy
-Pandas
-Seaborn
-Matplotlib
-SciPy
-scikit-learn
-mlxtend
-TensorFlow
+## Libraries Required:<br>
+Numpy<br>
+Pandas<br>
+Seaborn<br>
+Matplotlib<br>
+SciPy<br>
+scikit-learn<br>
+mlxtend<br>
+TensorFlow<br>
 
 
 ## Credits
